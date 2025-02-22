@@ -1,0 +1,73 @@
+{
+	"info": {
+		"_postman_id": "6881df1e-5a1e-4e33-83a1-84727ff9d833",
+		"name": "Integrations-failiure-testing",
+		"schema": "https://schema.postman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "google api",
+			"id": "200b610c-0ad4-49ff-821d-ef4d615dfb9a",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "www.google.com/lskfkrlkllklll;"
+			},
+			"response": []
+		},
+		{
+			"name": "Sync APi",
+			"id": "474c6a7c-f8fe-466c-a078-73d2e2a893dc",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "www.google.com/hgyrtry"
+			},
+			"response": []
+		},
+		{
+			"name": "hello",
+			"id": "93f6adff-8162-44d8-bf9d-20ee8e651033",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "www.google.com/ljhj"
+			},
+			"response": []
+		},
+		{
+			"name": "testing api",
+			"id": "d17ee231-858c-4128-b061-67f16f93e261",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "www.example.com/jjll"
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "fb9eac02-2a49-47c8-bcdd-325e673e99c1",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
