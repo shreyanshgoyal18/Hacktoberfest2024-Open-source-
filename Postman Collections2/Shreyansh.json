@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "google",
+			"name": "googlel",
 			"id": "200b610c-0ad4-49ff-821d-ef4d615dfb9a",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
@@ -106,6 +106,18 @@
 				"method": "GET",
 				"header": [],
 				"url": ""
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "b832df19-dd15-4eb4-bc01-08a877735f8a",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
 			},
 			"response": []
 		}
