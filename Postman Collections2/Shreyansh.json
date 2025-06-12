@@ -2,7 +2,7 @@
 	"info": {
 		"_postman_id": "6881df1e-5a1e-4e33-83a1-84727ff9d833",
 		"name": "Integrations-failiure-testing",
-		"schema": "https://schema.postman.com/json/collection/v2.0.0/collection.json"
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
 		{
@@ -72,6 +72,30 @@
 		{
 			"name": "New Request",
 			"id": "becbad07-9467-4163-91a6-fe2224314d10",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "b2d9f6f0-2ab4-4a29-b3fa-dbc3c3e0064f",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "b315b7a3-fdc9-4fed-a855-15f9bbd4d11e",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
